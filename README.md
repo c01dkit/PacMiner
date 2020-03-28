@@ -8,15 +8,9 @@
 * SourceFiles：存放main.c源代码
 * Game：存放项目工程所需文件
 
-### 编译说明
 
 
-
-![1560055584439](C:\Users\17816\AppData\Roaming\Typora\typora-user-images\1560055584439.png)
-
-![1560055674624](C:\Users\17816\AppData\Roaming\Typora\typora-user-images\1560055674624.png)
-
-![1560055751879](C:\Users\17816\AppData\Roaming\Typora\typora-user-images\1560055751879.png)
+导入库文件。
 
 
 
