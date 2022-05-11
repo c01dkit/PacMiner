@@ -10,7 +10,7 @@ DevC++ v5.8.3
 * libgraphics：存放作业要求的库函数
 * simpleGUI：存放课程提供的库函数
 * SourceFiles：存放main.c源代码
-* Game：存放项目工程所需文件
+* Game：存放项目工程所需文件，课程报告PDF及最终exe可执行文件在此目录
 
 
 
@@ -25,3 +25,5 @@ DevC++ v5.8.3
 
 
 再按F11编译即可
+
+
